@@ -1,0 +1,16 @@
+* {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+header {
+    background-color: #0e9adc;
+}
+section {
+    background-color: #1b6d85;
+    height: 1000px;
+    text-align: center;
+
+}
+footer {
+    background-color: #2b542c;
+}
